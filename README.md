@@ -58,7 +58,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Mohd-Ehtesham/Flashcard-Generator-capstone-project-3.git
+$ git clone https://github.com/Mohd-Ehtesham/Flashcard-Generator.git
 
 # Go into the repository
 $ cd Flashcard-Generator
